@@ -1,0 +1,4 @@
+Run ./install_script
+Run python3 send_message.py
+In order to use the lib, you must import send_message. Then, create the class and call the function CLASSNAME.sendMessage()
+

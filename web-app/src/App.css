@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css?family=Tomorrow&display=swap');
+.App {
+  font-family: 'Tomorrow' ;
+  text-align: center;
+  margin-bottom: 60px;
+}
+
+.upload {
+  width: 80px;
+}
+
+.inputfile {
+  opacity: 0;
+  overflow: hidden;
+  position: absolute;
+}
+
+.inputfile+label {
+  color: white;
+}
+
+.inputfile+label {
+  cursor: pointer;
+  /* "hand" cursor */
+}
+
+.radiobutton {
+  margin-left: 27%;
+}
